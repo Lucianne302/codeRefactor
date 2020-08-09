@@ -1,3 +1,8 @@
+Project Description: 
+The goal of this project is to improve the Horiseon web site by organizing the css to follow the structure of the html elements. 
+Fix any broken links and consolidate any css styles and classes.  Add comments and discritive notes to the code and style sheets.
+
+
 Change Log:
 1. Change website name to Horiseon in HTML title
 2. Fixed "search-engine-optimization" link
